@@ -2,7 +2,7 @@
 <br>
 
 - 🔭 I’m Test Automation Engineer
-- 🌱 I’m currently learning  **Selenium & Python & project management tools!**
+- 🌱 I’m currently learning  **Selenium & Python & Project Management Tools!**
 - 💬 Ask me about Selenium & Project Management Tools!
 
 <br>
