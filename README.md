@@ -26,5 +26,6 @@
  [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/resatkvc)
  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavci/)
  [![Mail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:simge1@icloud.com)](mailto:kavciresat@gmail.com)
+ [![Medium Badge](https://img.shields.io/badge/medium-333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kavciresat)
 
 <br>
