@@ -7,6 +7,8 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=resatkvc&label=Profile%20views&color=0e75b6&style=flat" alt="resatkavc" /> </p>
+
 ### Languages and Tools:
 
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
