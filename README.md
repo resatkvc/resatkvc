@@ -13,6 +13,7 @@
 
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="SELENIUM" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
 
 <br>
 <br>
