@@ -4,6 +4,7 @@
 - 🔭 I’m Test Automation Engineer
 - 🌱 I’m currently learning  **Selenium & Python & Project Management Tools!**
 - 💬 Ask me about Selenium & Project Management Tools!
+- 💬 How to create project test case and test run steps !
 
 <br>
 
