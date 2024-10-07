@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Resat Kavcı!
+# 👋 Hi, I'm Reşat Kavcı!
 
 ### 🚀 About Me
 I’m a passionate **Test Automation Engineer** with a strong background in automating web, API, and mobile tests using the latest tools and technologies. <br>
