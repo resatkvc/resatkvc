@@ -4,16 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=resatkvc&label=Profile%20views&color=0e75b6&style=flat" alt="resatkvc" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=resatkvc&show_icons=true&theme=tokyonight" alt="Reşat's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resatkvc&layout=compact&theme=tokyonight&hide=c%2B%2B" alt="Top Languages Used by Reşat" />
-</p>
-
 ### 🚀 About Me
 
 I’m a passionate **Test Automation Engineer** with a strong background in automating web, API, and mobile tests using the latest tools and technologies.  
@@ -70,6 +60,15 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 - Mentored junior testers, contributing to team knowledge sharing.  
 - Practiced Agile methodologies and actively participated in Scrum ceremonies.
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=resatkvc&show_icons=true&theme=tokyonight" alt="Reşat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resatkvc&layout=compact&theme=tokyonight&hide=c%2B%2B" alt="Top Languages Used by Reşat" />
+</p>
 
 ### 📬 Let's Connect!
 
