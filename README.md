@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I’m a passionate **Test Automation Engineer** with a strong background in automating web, API, and mobile tests using the latest tools and technologies.  
+I'm a passionate **Test Automation Engineer** with a strong background in automating web, API, and mobile tests using the latest tools and technologies.  
 My expertise lies in creating efficient and scalable test frameworks using various programming languages and methodologies.
 
 - 💻 **Languages** : Java, Python, Ruby  
@@ -15,6 +15,29 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 - 🔗 **Integration Tools** : Azure DevOps, Jenkins, Docker, Swagger, Postman  
 - 📊 **API Testing** : RESTful services with Postman and Swagger, SOAP testing with SOAP UI  
 
+<!-- Diagramas "Escritos a mano" -->
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 5px;">
+        <a href="https://github.com/timqian/chart.xkcd">
+          <img src="assets/line-knowledge.png" alt="Knowledge vs Humility" height="300"/>
+        </a>
+      </td>
+      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 5px;">
+        <a href="https://github.com/timqian/chart.xkcd">
+          <img src="assets/radar-motivation.png" alt="Programming Motivation Radar" height="300"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- Grafico de actividad GitHub -->
+[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=resatkvc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
+
+<!-- Contribuciones 3D GitHub -->
+[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ### 🛠️ Tech I Use
 
@@ -60,15 +83,13 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 - Mentored junior testers, contributing to team knowledge sharing.  
 - Practiced Agile methodologies and actively participated in Scrum ceremonies.
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=resatkvc&show_icons=true&theme=tokyonight" alt="Reşat's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resatkvc&layout=compact&theme=tokyonight&hide=c%2B%2B" alt="Top Languages Used by Reşat" />
-</p>
+<!-- Stats generales -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=resatkvc&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resatkvc&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
+  </a>
+</div>
 
 ### 📬 Let's Connect!
 
