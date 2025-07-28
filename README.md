@@ -19,12 +19,12 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 <p align="center">
   <table>
     <tr>
-      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 5px;">
+      <td align="center" style="border: 2px solid #39d353; border-radius: 10px; padding: 5px;">
         <a href="https://github.com/timqian/chart.xkcd">
           <img src="assets/line-knowledge.png" alt="Knowledge vs Humility" height="300"/>
         </a>
       </td>
-      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 5px;">
+      <td align="center" style="border: 2px solid #39d353; border-radius: 10px; padding: 5px;">
         <a href="https://github.com/timqian/chart.xkcd">
           <img src="assets/radar-motivation.png" alt="Programming Motivation Radar" height="300"/>
         </a>
