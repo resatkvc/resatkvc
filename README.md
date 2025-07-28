@@ -45,7 +45,7 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 [![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=resatkvc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
 
 <!-- Contribuciones 3D GitHub -->
-[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+[![Contribuciones night-green](https://github-profile-3d-contrib.vercel.app/?username=resatkvc&theme=night-green)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ### 🛠️ Tech I Use
 
