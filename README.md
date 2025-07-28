@@ -15,6 +15,14 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 - 🔗 **Integration Tools** : Azure DevOps, Jenkins, Docker, Swagger, Postman  
 - 📊 **API Testing** : RESTful services with Postman and Swagger, SOAP testing with SOAP UI  
 
+<!-- Stats generales -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=resatkvc&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resatkvc&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
+  </a>
+</div>
+
 <!-- Diagramas "Escritos a mano" -->
 <p align="center">
   <table>
@@ -54,7 +62,6 @@ My expertise lies in creating efficient and scalable test frameworks using vario
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="50" width="50" alt="Cucumber" title="Cucumber" />
 </p>
 
-
 ### 💻 Tools I Use
 
 <p align="center">
@@ -70,7 +77,6 @@ My expertise lies in creating efficient and scalable test frameworks using vario
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50" width="50" alt="SQL Server" title="SQL Server" />
 </p>
 
-
 ### 📈 Professional Experience
 
 - Specialized in building robust test automation solutions for web and API testing.  
@@ -82,14 +88,6 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 - Integrated test automation into CI/CD pipelines (Jenkins, Azure DevOps, GitHub Actions).  
 - Mentored junior testers, contributing to team knowledge sharing.  
 - Practiced Agile methodologies and actively participated in Scrum ceremonies.
-
-<!-- Stats generales -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=resatkvc&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resatkvc&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
-  </a>
-</div>
 
 ### 📬 Let's Connect!
 
