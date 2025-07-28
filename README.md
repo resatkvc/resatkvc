@@ -25,11 +25,6 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 
 ###
 
-<!-- Grafico de actividad GitHub -->
-[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=resatkvc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
-
-###
-
 ### 🛠️ Tech I Use
 
 <p align="center">
