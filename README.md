@@ -30,11 +30,6 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 
 ###
 
-<!-- Contribuciones 3D GitHub -->
-![3D Contributions](https://github-profile-3d-contrib.vercel.app/?username=resatkvc&theme=night-green)
-
-###
-
 ### 🛠️ Tech I Use
 
 <p align="center">
