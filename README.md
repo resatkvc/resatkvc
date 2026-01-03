@@ -10,7 +10,7 @@ I'm a passionate **Test Automation Engineer** with a strong background in automa
 My expertise lies in creating efficient and scalable test frameworks using various programming languages and methodologies.
 
 - 💻 **Languages** : Java, Python, Ruby  
-- 🛠️ **Tools** : Selenium, Cucumber, JUnit, TestNG, Maven, Karate, Capybara, Playwright, Cypress  
+- 🛠️ **Tools** : Selenium, Cucumber, JUnit, TestNG, Maven, Karate, Capybara 
 - 🏗️ **Frameworks & Methodologies** : POM (Page Object Model), BDD (Behavior-Driven Development)  
 - 🔗 **Integration Tools** : Azure DevOps, Jenkins, Docker, Swagger, Postman  
 - 📊 **API Testing** : RESTful services with Postman and Swagger, SOAP testing with SOAP UI  
