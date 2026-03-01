@@ -22,7 +22,6 @@ My expertise lies in creating efficient and scalable test frameworks using vario
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=resatkvc&theme=dracula" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=resatkvc&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=resatkvc&theme=dracula&utcOffset=3" />
 </div>
 ###
 
