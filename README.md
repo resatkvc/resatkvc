@@ -15,14 +15,15 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 - 🔗 **Integration Tools** : Azure DevOps, Jenkins, Docker, Swagger, Postman  
 - 📊 **API Testing** : RESTful services with Postman and Swagger, SOAP testing with SOAP UI  
 
-<!-- Stats generales -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=resatkvc&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resatkvc&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=resatkvc&theme=dracula" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=resatkvc&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=resatkvc&theme=dracula" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=resatkvc&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=resatkvc&theme=dracula&utcOffset=3" />
 </div>
-
 ###
 
 ### 🛠️ Tech I Use
