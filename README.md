@@ -1,5 +1,9 @@
-# 👋 Hi, I'm Reşat Kavcı!
-🚀Senior Test Automation Engineer🚀
+<h1 align="center">👋 Hi, I'm Reşat Kavcı</h1>
+
+<h3 align="center">
+  🚀 Senior Test Automation Engineer <br>
+  🤖 AI-powered QA | Automation | Performance
+</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=resatkvc&label=Profile%20views&color=0e75b6&style=flat" alt="resatkvc" />
