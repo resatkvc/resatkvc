@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Reşat Kavcı</h1>
 
 <h3 align="center">
-  🚀 Senior Test Automation Engineer <br>
-  🤖 AI-powered QA | Automation | Performance
+  🚀 Senior Test Automation Engineer
 </h3>
 
 <p align="left"> 
