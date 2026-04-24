@@ -13,7 +13,7 @@
 
 I'm a passionate **Test Automation Engineer** specialized in building scalable, robust, and intelligent test solutions across **Web, API, and Mobile platforms**.
 
-<p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="coding gif"alt="adam-pw" /></p>
+<p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="coding gif"alt="adam-pw" /></p>
 
 I focus on:
 * ⚡ High-performance automation frameworks
