@@ -1,10 +1,16 @@
 # 👋 Hi, I'm Reşat Kavcı!
+🚀Senior Test Automation Engineer🚀
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=resatkvc&label=Profile%20views&color=0e75b6&style=flat" alt="resatkvc" />
 </p>
 
-## 🚀 About Me
+
+  <p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif" alt="adam-pw" /></p>
+
+
+
+🚀 About Me
 
 I'm a passionate **Test Automation Engineer** specialized in building scalable, robust, and intelligent test solutions across **Web, API, and Mobile platforms**.
 
@@ -16,13 +22,12 @@ I focus on:
 * 📊 Observability & performance insights
 
 
-## 🧠 Specialization
+🧠 Specialization
 * ⚡ Test Automation (UI, API, Mobile)
 * ☁️ AWS & Cloud Testing
 * 📊 Observability (Prometheus, Grafana, Kibana)
 * 🔄 CI/CD Pipelines (Jenkins, Azure DevOps)
 * 🤖 AI-assisted Testing (LLM Agents, LangChain)
----
 
 ## 📊 GitHub Stats
 
