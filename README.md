@@ -1,19 +1,19 @@
 <h1 align="center">👋 Hi, I'm Reşat Kavcı</h1>
 
-<h3 align="center">
-  🚀 Senior Test Automation Engineer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Test+Automation+Engineer;Selenium+Appium+Expert;AI+Powered+QA&center=true&width=500&height=40">
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=resatkvc&label=Profile%20views&color=0e75b6&style=flat" alt="resatkvc" />
 </p>
-
 
 🚀 About Me
 
 I'm a passionate **Test Automation Engineer** specialized in building scalable, robust, and intelligent test solutions across **Web, API, and Mobile platforms**.
 
 <p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="coding gif"alt="adam-pw" /></p>
+
 
 I focus on:
 * ⚡ High-performance automation frameworks
